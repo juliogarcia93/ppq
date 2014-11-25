@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<a id="start-quiz" class="pink-block-btn" style="width: 250px; text-align: center">Take the quiz</a>
+
+<div class="quiz-body" hidden>
+    <h2 id="question"></h2>
+    <div id="answers">
+        <ul>
+
+        </ul>
+    </div>
+</div>
+
+<div class="response" hidden>
+
+</div>
+
+@section Scripts{
+<script src="~/Scripts/json/ppq.js"></script>
+}

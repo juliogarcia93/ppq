@@ -1,0 +1,7 @@
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Release\Utilities.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Release\Utilities.pdb
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Release\Newtonsoft.Json.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Release\Newtonsoft.Json.xml
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Release\Utilities.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Release\Utilities.pdb

@@ -1,0 +1,14 @@
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Debug\Utilities.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Debug\Utilities.dll
+C:\Users\Julio Garcia\Desktop\Github\PPQ\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\bin\Debug\Utilities.dll
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\obj\Debug\Utilities.dll
+C:\Users\Julio Garcia\Documents\Developer\PPQ\Utilities\obj\Debug\Utilities.pdb
